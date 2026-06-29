@@ -481,8 +481,7 @@ async function syncWithGitHub() {
         const response = await fetch(url, {
             headers: {
                 'Authorization': `token ${githubConfig.token}`,
-                'Accept': 'application/vnd.github.v3+json',
-                'Cache-Control': 'no-cache'
+                'Accept': 'application/vnd.github.v3+json'
             }
         });
         
@@ -607,8 +606,7 @@ async function fetchLatestGitHubSha() {
         const response = await fetch(url, {
             headers: {
                 'Authorization': `token ${githubConfig.token}`,
-                'Accept': 'application/vnd.github.v3+json',
-                'Cache-Control': 'no-cache'
+                'Accept': 'application/vnd.github.v3+json'
             }
         });
         if (response.status === 200) {
