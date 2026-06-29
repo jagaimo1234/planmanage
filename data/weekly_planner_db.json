@@ -410,187 +410,67 @@
         "day-6": ""
       },
       "showCorrelationLines": true
+    },
+    "2026-06-29": {
+      "links": [],
+      "tasks": [],
+      "insights": [
+        {
+          "id": "i-1",
+          "title": "まっちょメガネスタンド",
+          "detail": "足にセメント入れ作業",
+          "images": []
+        }
+      ],
+      "subtasksData": {},
+      "subinsightsData": {
+        "i-1": [
+          {
+            "id": "1782738981803",
+            "text": "セメント入れ作業",
+            "detail": ""
+          },
+          {
+            "id": "1782738988583",
+            "text": "ふたプリント",
+            "detail": ""
+          },
+          {
+            "id": "1782738994328",
+            "text": "ふたはめ作業",
+            "detail": ""
+          }
+        ]
+      },
+      "dailyNotes": {
+        "day-0": "",
+        "day-1": "",
+        "day-2": "",
+        "day-3": "",
+        "day-4": "",
+        "day-5": "",
+        "day-6": ""
+      },
+      "showCorrelationLines": true
     }
   },
-  "links": [
-    {
-      "from": "time-3-16-00",
-      "to": "t-3",
-      "color": "var(--c-red)",
-      "dashed": false
-    },
-    {
-      "from": "time-3-17-00",
-      "to": "t-5",
-      "color": "var(--c-orange)",
-      "dashed": false
-    },
-    {
-      "from": "time-5-9-00",
-      "to": "t-9",
-      "color": "var(--c-red)",
-      "dashed": false
-    },
-    {
-      "from": "i-4",
-      "to": "t-9",
-      "color": "var(--c-pink)",
-      "dashed": false
-    },
-    {
-      "from": "time-5-9-30",
-      "to": "t-10",
-      "color": "var(--c-green)",
-      "dashed": false
-    },
-    {
-      "from": "time-5-14-00",
-      "to": "t-12",
-      "color": "var(--c-amber)",
-      "dashed": true
-    },
-    {
-      "from": "time-5-14-30",
-      "to": "t-12",
-      "color": "var(--c-amber)",
-      "dashed": true
-    },
-    {
-      "from": "time-5-15-00",
-      "to": "t-12",
-      "color": "var(--c-amber)",
-      "dashed": true
-    },
-    {
-      "from": "time-5-10-30",
-      "to": "t-13",
-      "color": "var(--c-green)",
-      "dashed": false
-    },
-    {
-      "from": "time-5-11-00",
-      "to": "t-13",
-      "color": "var(--c-green)",
-      "dashed": false
-    },
-    {
-      "from": "time-5-11-30",
-      "to": "t-13",
-      "color": "var(--c-green)",
-      "dashed": false
-    },
-    {
-      "from": "time-5-17-30",
-      "to": "t-13",
-      "color": "var(--c-green)",
-      "dashed": false
-    },
-    {
-      "from": "time-5-20-00",
-      "to": "t-15",
-      "color": "var(--c-orange)",
-      "dashed": false
-    },
-    {
-      "from": "time-5-17-30",
-      "to": "t-14",
-      "color": "var(--c-rose)",
-      "dashed": false
-    },
-    {
-      "from": "time-5-18-00",
-      "to": "t-14",
-      "color": "var(--c-rose)",
-      "dashed": false
-    },
-    {
-      "from": "time-5-19-30",
-      "to": "t-12",
-      "color": "var(--c-amber)",
-      "dashed": false
-    },
-    {
-      "from": "time-5-19-00",
-      "to": "t-12",
-      "color": "var(--c-amber)",
-      "dashed": false
-    },
-    {
-      "from": "time-6-8-00",
-      "to": "t-16",
-      "color": "var(--c-green)",
-      "dashed": true
-    },
-    {
-      "from": "time-6-9-00",
-      "to": "t-17",
-      "color": "var(--c-cyan)",
-      "dashed": false
-    },
-    {
-      "from": "time-6-12-00",
-      "to": "t-18",
-      "color": "var(--c-amber)",
-      "dashed": false
-    },
-    {
-      "from": "time-6-14-00",
-      "to": "t-18",
-      "color": "var(--c-amber)",
-      "dashed": false
-    },
-    {
-      "from": "time-6-14-30",
-      "to": "t-12",
-      "color": "var(--c-amber)",
-      "dashed": false
-    },
-    {
-      "from": "time-6-19-00",
-      "to": "t-19",
-      "color": "var(--c-cyan)",
-      "dashed": false
-    },
-    {
-      "from": "time-6-19-30",
-      "to": "t-20",
-      "color": "var(--c-red)",
-      "dashed": false
-    },
-    {
-      "from": "time-6-20-00",
-      "to": "t-21",
-      "color": "var(--c-teal)",
-      "dashed": false
-    }
-  ],
-  "subtasks": {
-    "t-1": [],
-    "t-2": [],
-    "t-3": [],
-    "t-4": [],
-    "t-5": [],
-    "t-6": [],
-    "t-7": [],
-    "t-8": [],
-    "t-9": [],
-    "t-10": [],
-    "t-12": [],
-    "t-13": [],
-    "t-14": [],
-    "t-15": [],
-    "t-16": [],
-    "t-17": [],
-    "t-18": [],
-    "t-19": [],
-    "t-20": [],
-    "t-21": []
-  },
+  "links": [],
+  "subtasks": {},
   "subinsights": {
     "i-1": [
       {
-        "id": "1782391416774",
-        "text": "",
+        "id": "1782738981803",
+        "text": "セメント入れ作業",
+        "detail": ""
+      },
+      {
+        "id": "1782738988583",
+        "text": "ふたプリント",
+        "detail": ""
+      },
+      {
+        "id": "1782738994328",
+        "text": "ふたはめ作業",
         "detail": ""
       }
     ]
