@@ -1,0 +1,133 @@
+{
+  "links": [
+    {
+      "from": "time-3-16-00",
+      "to": "t-3",
+      "color": "var(--c-red)",
+      "dashed": false
+    },
+    {
+      "from": "time-3-17-00",
+      "to": "t-5",
+      "color": "var(--c-orange)",
+      "dashed": false
+    }
+  ],
+  "tasks": [
+    {
+      "dayId": "day-0",
+      "id": "t-6",
+      "title": "",
+      "detail": "",
+      "color": "var(--c-purple)",
+      "status": 0,
+      "images": []
+    },
+    {
+      "dayId": "day-0",
+      "id": "t-7",
+      "title": "",
+      "detail": "",
+      "color": "var(--c-green)",
+      "status": 0,
+      "images": []
+    },
+    {
+      "dayId": "day-0",
+      "id": "t-8",
+      "title": "",
+      "detail": "",
+      "color": "var(--c-red)",
+      "status": 0,
+      "images": []
+    },
+    {
+      "dayId": "day-3",
+      "id": "t-1",
+      "title": "creator 5設置",
+      "detail": "",
+      "color": "var(--c-purple)",
+      "status": 2,
+      "images": []
+    },
+    {
+      "dayId": "day-3",
+      "id": "t-2",
+      "title": "creator 5テストプリント",
+      "detail": "",
+      "color": "var(--c-purple)",
+      "status": 2,
+      "images": []
+    },
+    {
+      "dayId": "day-3",
+      "id": "t-3",
+      "title": "モアイメガネスタンド\nふたの寸法修正。",
+      "detail": "",
+      "color": "var(--c-red)",
+      "status": 1,
+      "images": []
+    },
+    {
+      "dayId": "day-3",
+      "id": "t-5",
+      "title": "デュオリンゴ",
+      "detail": "",
+      "color": "var(--c-orange)",
+      "status": 0,
+      "images": []
+    },
+    {
+      "dayId": "day-4",
+      "id": "t-4",
+      "title": "朝ゆったり",
+      "detail": "",
+      "color": "var(--c-green)",
+      "status": 0,
+      "images": []
+    }
+  ],
+  "insights": [
+    {
+      "id": "i-1",
+      "title": "HMJの準備",
+      "detail": "",
+      "images": []
+    },
+    {
+      "id": "i-2",
+      "title": "モアイルアースタンド設計",
+      "detail": "２種類は設計",
+      "images": []
+    }
+  ],
+  "subtasksData": {
+    "t-1": [],
+    "t-2": [],
+    "t-3": [],
+    "t-4": [],
+    "t-5": [],
+    "t-6": [],
+    "t-7": [],
+    "t-8": []
+  },
+  "subinsightsData": {
+    "i-1": [
+      {
+        "id": "1782391416774",
+        "text": "",
+        "detail": ""
+      }
+    ]
+  },
+  "dailyNotes": {
+    "day-0": "",
+    "day-1": "",
+    "day-2": "",
+    "day-3": "・モアイメガネスタンドの足のふたの寸法を修正が必要。\n",
+    "day-4": "",
+    "day-5": "",
+    "day-6": ""
+  },
+  "showCorrelationLines": true
+}

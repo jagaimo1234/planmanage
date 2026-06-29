@@ -1,0 +1,40 @@
+{
+  "links": [],
+  "tasks": [],
+  "insights": [
+    {
+      "id": "i-1",
+      "title": "HMJ",
+      "detail": "",
+      "images": []
+    },
+    {
+      "id": "i-2",
+      "title": "脱毛したい",
+      "detail": "",
+      "images": []
+    },
+    {
+      "id": "i-3",
+      "title": "腰痛ひどいので運動必要",
+      "detail": "まずは手軽でいい。\nチョコザップとか再開したいな。",
+      "images": []
+    },
+    {
+      "id": "i-4",
+      "title": "無駄な出費増えているので注意。",
+      "detail": "",
+      "images": []
+    }
+  ],
+  "subtasksData": {},
+  "subinsightsData": {},
+  "dailyNotes": {
+    "day-0": "",
+    "day-1": "",
+    "day-2": "",
+    "day-3": "",
+    "day-4": ""
+  },
+  "showCorrelationLines": true
+}
